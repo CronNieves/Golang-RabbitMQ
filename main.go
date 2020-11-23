@@ -1,0 +1,6 @@
+package GolangRabbitMQ
+
+
+func main() {
+
+}
