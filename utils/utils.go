@@ -1,4 +1,4 @@
-package GolangRabbitMQ
+package utils
 
 import "log"
 

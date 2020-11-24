@@ -1,4 +1,4 @@
-package GolangRabbitMQ
+package utils
 
 type Configuration struct {
 	AMQPConnectionURL string
